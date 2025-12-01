@@ -148,12 +148,12 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 
 ---
-![](./images/jarvis%20server.png)\
+![](./img/jarvis%20server.png)\
 
 ## 2. Adding Jenkinsfile to GitHub + Webhook Setup
 
 ### Jenkinsfile Example
-![](./images/repo%20add.png)
+![](./img/repo%20add.png)
 
 ```bash
 pipeline {
@@ -237,7 +237,7 @@ Webhook triggers build on new GitHub pushes.
 
 ---
 
-![](./images/jenkins%20deploy.png)
+![](./img/jenkins%20deploy.png)
 
 
 #  Final Checklist
